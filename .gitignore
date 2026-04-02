@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+data/raw/
+data/geocode_cache.json
+.venv/
+venv/
+requirements_dev.txt
+.claude/
